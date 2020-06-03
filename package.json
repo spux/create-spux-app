@@ -1,0 +1,28 @@
+{
+  "name": "create-spux-app",
+  "version": "0.0.1",
+  "description": "create spux app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spux/create-spux-app.git"
+  },
+  "bin": {
+    "create-spux-app": "./bin/create-spux-app.js"
+  },
+  "keywords": [
+    "spux"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spux/create-spux-app/issues"
+  },
+  "homepage": "https://github.com/spux/create-spux-app#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
